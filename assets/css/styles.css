@@ -56,7 +56,7 @@ nav#TableOfContents a:hover {
     justify-content: space-around;
     list-style: none;
     flex-wrap: wrap;
-    gap: 5;
+    gap: 1em;
 }
 
 .lang-links .website {
