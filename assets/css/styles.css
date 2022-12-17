@@ -58,6 +58,14 @@ nav#TableOfContents a:hover {
     flex-wrap: wrap;
 }
 
+.lang-links .website {
+background-color: color(srgb 0.0577 0.2222 0.6019)
+}
+
+.lang-links .sbl {
+    background-color: #F4A580;
+}
+
 .lang-links li {
     padding: 1.2em 1.5em;
     width: 15em;
