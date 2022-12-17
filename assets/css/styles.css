@@ -70,6 +70,10 @@ background-color: color(srgb 0.0577 0.2222 0.6019)
     background-color: #0A1135;
 }
 
+.lang-links .youtube {
+    background-color: #FF0000;
+}
+
 .lang-links li {
     padding: 1.2em 1.5em;
     width: 15em;
