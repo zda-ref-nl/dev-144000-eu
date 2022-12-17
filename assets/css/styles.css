@@ -45,6 +45,10 @@ nav#TableOfContents a:hover {
     background-color: transparent;
 }
 
+.languages {
+    list-style: none;
+    gap: 1em;
+}
 
 .lang-links {
     display: flex;
@@ -55,11 +59,17 @@ nav#TableOfContents a:hover {
 }
 
 .lang-links li {
-    padding: 1.2rem 1.5rem;
-    max-width: 200px;
-    border-radius: 1rem;
+    padding: 1.2em 1.5em;
+    width: 15em;
+    border-radius: 1em;
 }
 
 .lang-links a {
     text-decoration: none;
+    color: #fff;
+}
+
+.lang-links a>i {
+font-size: 1.8em;
+    padding-bottom: .5em;
 }
